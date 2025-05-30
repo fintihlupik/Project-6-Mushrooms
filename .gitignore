@@ -1,0 +1,9 @@
+# Ignorar entorno virtual
+venv/
+.env/
+
+# Ignorar archivos de sistema de macOS
+.DS_Store
+
+# Ignorar contenido de la carpeta data
+data/
